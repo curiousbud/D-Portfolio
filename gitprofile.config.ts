@@ -57,12 +57,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/areeb-khan-8506a424b/',
+    linkedin: 'areeb-khan-8506a424b',
     x: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '@curious_bud',
+    instagram: 'curious_bud',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -70,8 +70,8 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'https://dev.to/curiousbud',
-    stackoverflow: 'https://stackoverflow.com/users/15393425/areeb-khan', // example: '1/jeff-atwood'
+    dev: 'curiousbud',
+    stackoverflow: '15393425/areeb-khan', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: '',
