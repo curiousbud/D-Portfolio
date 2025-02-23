@@ -52,31 +52,31 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Areeb Khan',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'https://www.linkedin.com/in/areeb-khan-8506a424b/',
+    x: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: '@curious_bud',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    medium: '',
+    dev: 'https://dev.to/curiousbud',
+    stackoverflow: 'https://stackoverflow.com/users/15393425/areeb-khan', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'akareeb662@gmail.com',
   },
   resume: {
     fileUrl:
