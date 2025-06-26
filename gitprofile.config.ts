@@ -58,7 +58,7 @@ const CONFIG = {
     researchGate: "",
     facebook: "",
     instagram: "curious_bud",
-    reddit: "",
+    reddit: "Black_Badger-001",
     threads: "",
     youtube: "", // example: 'pewdiepie'
     udemy: "",
